@@ -17,8 +17,6 @@
 <a href="https://dev.to/wickedtornado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wickedtornado" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anmol-monga-a706b1182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-monga-a706b1182" height="30" width="40" /></a>
 <a href="https://instagram.com/a_monga_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_monga_2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mongaanmol11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mongaanmol11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mongaanmol11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mongaanmol11" height="30" width="40" /></a>
 <a href="https://discord.gg/wickedtornado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wickedtornado" height="30" width="40" /></a>
 </p>
 
