@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working in NPCI on a **UAT portal**
 
-- 🌱 I’m currently learning **AWS,Redis,Kafka**
+- 🌱 I’m currently learning **AWS**
 
 - 🤝 I’m looking for help with **working on open source projects**
 
