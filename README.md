@@ -2,9 +2,9 @@
 <h3 align="center">Associate Software Developer | High Thinker | Extrovert learner | Open source |</h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working in NPCI on a **UAT portal**
-- 🤝 I’m looking for help with **working on open source projects**
-- 💬 Ask me about **Java,Golang,IOT**
+- 🔭 I’m currently working in NPCI as a backend developer. I'm in the RuPay team (IM COOL)
+- 🤝 I love working on open source projects and build stuff
+- 💬 Ask me about Java,Golang,IOT
 - 📫 How to reach me **mongaanmol11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
