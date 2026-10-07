@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol Monga</h1>
-<h3 align="center">Backend Dev | High Thinker | Extrovert learner | Open source |</h3>
+<h3 align="center">Backend Dev</h3>
 
 - 🔭 I’m currently working as a backend developer and I love building stuff.
 - 💬 Ask me about Backend domain.
